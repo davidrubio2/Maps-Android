@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544521464948",
+    "project_id": "nifty-yeti-102004"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544521464948:android:2d0d278e5ac70ab7",
+        "android_client_info": {
+          "package_name": "com.example.alien.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544521464948-os7i90cq5hhdclqi9mjst83r1aos9f8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alien.googlemaps",
+            "certificate_hash": "5461A1C5F2CCEE99D25A57B07979EA8037F403A1"
+          }
+        },
+        {
+          "client_id": "544521464948-rkcdta8fdbljh4j4aichb25uq4vcf0at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIslC0l-vqvyM77BrUk5d_zjC5gXwNyas"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
